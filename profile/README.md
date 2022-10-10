@@ -6,7 +6,8 @@
 [![](https://img.shields.io/badge/PublicDeck-1-orange)](https://github.com/search?q=topic%3Ajson+org%3AssJSKFJDJ&type=Repositories)
 [![](https://img.shields.io/badge/Lua%20Module-0-red)](https://github.com/orgs/ssJSKFJDJ/repositories?q=&type=all&language=lua&sort=)
 [![](https://img.shields.io/badge/Docs-pass-green)](https://cypress0522.github.io/ssJSKFJDJ)
-
+[![](https://img.shields.io/badge/team-Dice!-black)](https://github.com/orgs/ssJSKFJDJ/teams/dice/repositories)
+[![](https://img.shields.io/badge/team-OlivaOS-black)](https://github.com/orgs/ssJSKFJDJ/teams/olivaos/repositories)
 > for script or mod.
 
 <img src="https://ghchart.rshah.org/cypress0522" />
