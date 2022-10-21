@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Dice%20mod-3-orange)](https://github.com/search?q=topic%3Adice-mod+org%3AssJSKFJDJ&type=Repositories)
 [![](https://img.shields.io/badge/PublicDeck-2-orange)](https://github.com/search?q=topic%3Apublicdeck+org%3AssJSKFJDJ&type=Repositories)
 [![](https://img.shields.io/badge/Lua%20Module-1-orange)](https://github.com/search?q=topic%3Alua-module+fork%3Atrue+org%3AssJSKFJDJ&type=Repositories)
-[![](https://img.shields.io/badge/Docs-passing-green)](https://ssjskfjdj.github.io/main-pages)
+[![](https://img.shields.io/badge/Docs-passing-green)](https://cypress0522.github.io/ssJSKFJDJ)
 [![](https://img.shields.io/badge/team-Dice!-black)](https://github.com/orgs/ssJSKFJDJ/teams/dice/repositories)
 [![](https://img.shields.io/badge/team-OlivaOS-black)](https://github.com/orgs/ssJSKFJDJ/teams/olivaos/repositories)
 
