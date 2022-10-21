@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/License-MIT-black)](https://github.com/ssJSKFJDJ/.github/blob/main/LICENSE)
 [![](https://img.shields.io/badge/Dice%20script-0-red)](https://github.com/search?q=topic%3Adice-script+org%3AssJSKFJDJ&type=Repositories)
-[![](https://img.shields.io/badge/Dice%20mod-3-orange)](https://github.com/search?q=topic%3Adice-mod+org%3AssJSKFJDJ&type=Repositories)
+[![](https://img.shields.io/badge/Dice%20mod-3-orange)](https://github.com/search?q=topic%3Adice-mod+fork%3AssJSKFJDJ&type=Repositories)
 [![](https://img.shields.io/badge/PublicDeck-2-orange)](https://github.com/search?q=topic%3Apublicdeck+org%3AssJSKFJDJ&type=Repositories)
 [![](https://img.shields.io/badge/Lua%20Module-1-orange)](https://github.com/search?q=topic%3Alua-module+fork%3Atrue+org%3AssJSKFJDJ&type=Repositories)
 [![](https://img.shields.io/badge/Docs-passing-green)](https://cypress0522.github.io/ssJSKFJDJ)
