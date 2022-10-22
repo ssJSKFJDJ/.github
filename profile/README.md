@@ -16,6 +16,7 @@
 # Contribute
 
 如果你是Dice!脚本作者，那么你可以[fork plugin](https://github.com/ssJSKFJDJ/plugin)仓库，然后按格式提交PR。
+
 如果你是牌堆作者，那么你可以[fork PublicDeck](https://github.com/ssJSKFJDJ/PublicDeck)仓库，然后按格式提交PR。
 
 ***
