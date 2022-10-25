@@ -1,13 +1,14 @@
 # ssJSKFJDJ
 
-[![](https://img.shields.io/badge/License-MIT-black)](https://github.com/ssJSKFJDJ/.github/blob/main/LICENSE)
+[![](https://img.shields.io/badge/License-MIT-black)](https://github.com/ssJSKFJDJ/.github/blob/main/LICENSE)<br>
+[![](https://img.shields.io/badge/Docs-passing-green)](https://cypress0522.github.io/ssJSKFJDJ)<br>
+[![](https://img.shields.io/badge/team-Dice!-black)](https://github.com/orgs/ssJSKFJDJ/teams/dice/repositories)
+[![](https://img.shields.io/badge/team-OlivaOS-black)](https://github.com/orgs/ssJSKFJDJ/teams/olivaos/repositories)<br>
+[![](https://img.shields.io/badge/☃️ssJSKFJDJ♬-971050440-blue)](https://jq.qq.com/?_wv=1027&k=y81MmDpz)<br>
 [![](https://img.shields.io/badge/Dice%20script-2-orange)](https://github.com/ssJSKFJDJ/plugin)
 [![](https://img.shields.io/badge/Dice%20mod-3-orange)](https://github.com/search?q=topic%3Adice-mod+org%3AssJSKFJDJ+fork%3Atrue&type=repositories)
 [![](https://img.shields.io/badge/PublicDeck-3-orange)](https://github.com/ssJSKFJDJ/PublicDeck)
-[![](https://img.shields.io/badge/Lua%20Module-1-orange)](https://github.com/search?q=topic%3Alua-module+fork%3Atrue+org%3AssJSKFJDJ&type=Repositories)
-[![](https://img.shields.io/badge/Docs-passing-green)](https://cypress0522.github.io/ssJSKFJDJ)
-[![](https://img.shields.io/badge/team-Dice!-black)](https://github.com/orgs/ssJSKFJDJ/teams/dice/repositories)
-[![](https://img.shields.io/badge/team-OlivaOS-black)](https://github.com/orgs/ssJSKFJDJ/teams/olivaos/repositories)
+[![](https://img.shields.io/badge/Lua%20Module-1-orange)](https://github.com/search?q=topic%3Alua-module+fork%3Atrue+org%3AssJSKFJDJ&type=Repositories)<br>
 
 > for script or mod.
 
