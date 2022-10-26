@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/☃️ssJSKFJDJ♬-971050440-blue)](https://jq.qq.com/?_wv=1027&k=y81MmDpz)<br>
 [![](https://img.shields.io/badge/Dice%20script-2-orange)](https://github.com/ssJSKFJDJ/plugin)
 [![](https://img.shields.io/badge/Dice%20mod-3-orange)](https://github.com/search?q=topic%3Adice-mod+org%3AssJSKFJDJ+fork%3Atrue&type=repositories)
-[![](https://img.shields.io/badge/PublicDeck-3-orange)](https://github.com/ssJSKFJDJ/PublicDeck)
+[![](https://img.shields.io/badge/PublicDeck-4-orange)](https://github.com/ssJSKFJDJ/PublicDeck)
 [![](https://img.shields.io/badge/Lua%20Module-1-orange)](https://github.com/search?q=topic%3Alua-module+fork%3Atrue+org%3AssJSKFJDJ&type=Repositories)<br>
 
 > for script or mod.
