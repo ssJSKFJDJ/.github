@@ -1,6 +1,6 @@
 # ssJSKFJDJ
 
-[![](https://img.shields.io/badge/License-MIT-black)](https://github.com/ssJSKFJDJ/.github/blob/main/LICENSE)<br>
+[![License](https://img.shields.io/github/license/ssJSKFJDJ/.github.svg)](http://www.gnu.org/licenses)<br>
 [![](https://img.shields.io/badge/Docs-passing-green)](https://cypress0522.github.io/ssJSKFJDJ)<br>
 [![](https://img.shields.io/badge/team-Dice!-black)](https://github.com/orgs/ssJSKFJDJ/teams/dice/repositories)
 [![](https://img.shields.io/badge/team-OlivaOS-black)](https://github.com/orgs/ssJSKFJDJ/teams/olivaos/repositories)<br>
