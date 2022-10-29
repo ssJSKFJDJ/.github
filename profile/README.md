@@ -2,9 +2,9 @@
 
 [![License](https://img.shields.io/github/license/ssJSKFJDJ/.github.svg)](http://www.gnu.org/licenses)<br>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9452c174-42c2-44b3-b3e5-90e79fda77c4/deploy-status)](https://ssjskfjdj.netlify.app/)<br>
+[![](https://img.shields.io/badge/☃️ssJSKFJDJ♬-971050440-blue)](https://jq.qq.com/?_wv=1027&k=y81MmDpz)<br>
 [![](https://img.shields.io/badge/team-Dice!-black)](https://github.com/orgs/ssJSKFJDJ/teams/dice/repositories)
 [![](https://img.shields.io/badge/team-OlivaOS-black)](https://github.com/orgs/ssJSKFJDJ/teams/olivaos/repositories)<br>
-[![](https://img.shields.io/badge/☃️ssJSKFJDJ♬-971050440-blue)](https://jq.qq.com/?_wv=1027&k=y81MmDpz)<br>
 [![](https://img.shields.io/github/directory-file-count/ssJSKFJDJ/plugin?label=plugin)](https://github.com/ssJSKFJDJ/plugin)
 [![](https://img.shields.io/badge/Dice%20mod-3-orange)](https://github.com/search?q=topic%3Adice-mod+org%3AssJSKFJDJ+fork%3Atrue&type=repositories)
 [![](https://img.shields.io/github/directory-file-count/ssJSKFJDJ/PublicDeck?label=PublicDeck)](https://github.com/ssJSKFJDJ/PublicDeck)
@@ -47,9 +47,12 @@
      }
    }
    ```
-  你可以直接[访问](https://github.com/ssJSKFJDJ/main-pages/blob/master/docs/Module/listen2me)来查看该json所在位置。
-  这里我们只需要填写"pkg"字段即可，"repo"字段如有请删除。
-3. 按照格式提交PR
+   你可以直接[访问](https://github.com/ssJSKFJDJ/main-pages/blob/master/docs/Module/listen2me)来查看该json所在位置。
+   这里我们只需要填写"pkg"字段即可，"repo"字段如有请删除。
+   > tips:pkg填写的是把功能模块打包好后发布的地址，必须为直链，不一定要在github上!
+3. 给你的功能模块库添加`lua`和`dice-mod`标签。
+4. 按照格式提交PR。
+5. 如有需要一并提交md格式的技术文档。
 
 ***
 
