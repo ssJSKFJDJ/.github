@@ -4,7 +4,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9452c174-42c2-44b3-b3e5-90e79fda77c4/deploy-status)](https://ssjskfjdj.netlify.app/)
 [![](https://img.shields.io/badge/☃️ssJSKFJDJ♬-971050440-blue)](https://jq.qq.com/?_wv=1027&k=y81MmDpz)
 [![](https://img.shields.io/badge/team-Dice!-black)](https://github.com/orgs/ssJSKFJDJ/teams/dice/repositories)
-[![](https://img.shields.io/badge/team-OlivaOS-black)](https://github.com/orgs/ssJSKFJDJ/teams/olivaos/repositories)
+<!-- [![](https://img.shields.io/badge/team-OlivaOS-black)](https://github.com/orgs/ssJSKFJDJ/teams/olivaos/repositories) -->
 
 > for script or mod.
 
