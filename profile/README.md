@@ -13,7 +13,7 @@
 # Contribute
 
 
-## plugin
+## plugin(Lua插件)
 
 > 如果你是Dice!脚本作者，那么你可以[fork plugin](https://github.com/ssJSKFJDJ/plugin)仓库，然后按格式提交PR。
 
@@ -80,11 +80,11 @@
       - xxx by xxx
    ```
 
-## PublicDeck
+## PublicDeck(功能牌堆)
 
 > 如果你是牌堆作者，那么你可以[fork PublicDeck](https://github.com/ssJSKFJDJ/PublicDeck)仓库，然后按格式提交PR。
 
-## Module
+## Module(功能模块)
 
 功能模块。是“主营业务”。
 功能模块的收集没有任何像plugin或PublickDeck那样的专门的库，这里只选择功能模块作者在main-pages的master分支的[Module](https://github.com/ssJSKFJDJ/main-pages/tree/master/docs/Module)文件夹下提交功能模块远程下载json的方式来收录Module。在收到PR以及审核通过后，审核人员会将你的功能模块库fork到ssJSKFJDJ。
