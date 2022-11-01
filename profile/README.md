@@ -80,9 +80,29 @@
       - xxx by xxx
    ```
 
-## PublicDeck(功能牌堆)
+### PublicDeck(功能牌堆)
+
+<p><small>本段作者:梦夜雨<br>校对:简律纯</small></p>
 
 > 如果你是牌堆作者，那么你可以[fork PublicDeck](https://github.com/ssJSKFJDJ/PublicDeck)仓库，然后按格式提交PR。
+
+=== ":octicons-file-16: 提交`*.json`文件"
+
+      1. 请务必在牌堆内写上如下信息，否则审核将会打回您的文件，这么做的理由是为了让您的脚本在被他人下载使用时，让他人知晓作者是谁，(若有报错)如何联系等。
+      ```json
+      {
+        "_author":[
+            "名字+联系方式"
+        ]
+      }
+      ```
+      在牌堆中写明此内容后，下一步就是上传了（一个吐槽:基本就是一路绿下去 (什) )
+      2. 点击上方的连接后，在文件列表的右上会有一个名为code的绿色按钮，点击其左侧的Add file按钮 ，在下拉菜单中选择Upload files按钮
+      3. 进入新的界面后，第一种方法是将.json文件拖入中间的框中，第二种方法是选择中间的蓝色choose you files按钮 ，并在弹出的资源管理器窗口中选择您要上传的文件
+      4. 上传完成后，点击底部的绿色Commit changes按钮
+      5. 此时您自己的库已经更新，之后需要在界面中寻找Pull request按钮并点击
+      6. 在Pull Requests中，点击右边的绿色New pull request按钮或是中下蓝色的create a pull requret按钮
+      7. 在新界面中选择绿色的Create pull request按钮 ，请求将代码提交到ssJSKFJDJ的库中
 
 ## Module(功能模块)
 
