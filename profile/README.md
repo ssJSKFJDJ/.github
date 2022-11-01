@@ -10,10 +10,10 @@
 
 <img src="https://ghchart.rshah.org/cypress0522" />
 
-# Contribute
+## Contribute
 
 
-## plugin(Lua插件)
+### plugin(Lua插件)
 
 > 如果你是Dice!脚本作者，那么你可以[fork plugin](https://github.com/ssJSKFJDJ/plugin/fork)仓库，然后按格式提交PR。
 
@@ -26,7 +26,7 @@
 [![单个lua文件](https://img.shields.io/github/directory-file-count/ssJSKFJDJ/plugin/Single%20File?extension=lua&label=Single%20Lua%20File&type=file)](https://github.com/ssJSKFJDJ/plugin/tree/main/Single%20File)
 [![多个lua文件](https://img.shields.io/github/directory-file-count/ssJSKFJDJ/plugin/Mutiple%20Files?label=Mutiple%20lua%20File&type=dir)](https://github.com/ssJSKFJDJ/plugin/tree/main/Single%20File)
 
-### WARNING
+#### WARNING
 
 注意，请**按照格式和规范**提交pr:
 
@@ -104,7 +104,7 @@
       6. 在Pull Requests中，点击右边的绿色New pull request按钮或是中下蓝色的create a pull requret按钮
       7. 在新界面中选择绿色的Create pull request按钮 ，请求将代码提交到ssJSKFJDJ的库中
 
-## Module(功能模块)
+### Module(功能模块)
 
 功能模块。是“主营业务”。
 功能模块的收集没有任何像plugin或PublickDeck那样的专门的库，这里只选择功能模块作者在main-pages的master分支的[Module](https://github.com/ssJSKFJDJ/main-pages/tree/master/docs/Module)文件夹下提交功能模块远程下载json的方式来收录Module。在收到PR以及审核通过后，审核人员会将你的功能模块库fork到ssJSKFJDJ。
@@ -156,12 +156,13 @@
   4. Enjoy Your Self!
 ```
 
-## Mkdocs(技术文档)
+### Mkdocs(技术文档)
 
 > to be...
 
 ***
 
+## License
 ```
   MIT License
 
