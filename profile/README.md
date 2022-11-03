@@ -12,6 +12,25 @@
 
 ## Contribute
 
+### 本地部署
+
+将[main-pages](https://github.com/ssJSKFJDJ/main-pages)仓库克隆到本地后，cd到根目录执行以下命令：
+```ps1
+pip install mkdocs
+pip install mkdocs-material
+pip install mkdocs-blogging-plugin
+pip install git+https://github.com/fmaida/hello-dolly-mkdocs-plugin
+pip install git+https://github.com/srymh/MkdocsTagPlugin
+pip install mkdocs-git-revision-date-plugin
+pip install mkdocs-git-authors-plugin
+pip install mkdocs-rss-plugin
+pip install mkdocs-print-site-plugin
+pip install mkdocs-tooltips
+pip install mkdocs-categories-plugin
+pip install mkdocs-git-show-history-log-plugin
+mkdocs serve
+```
+控制台将会返回本地预览窗口。
 
 ### plugin(Lua插件)
 
