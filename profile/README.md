@@ -8,7 +8,7 @@
 
 > for script or mod.
 
-<img src="https://ghchart.rshah.org/A2C29K9" />
+<img src="https://ghchart.rshah.org/HsiangNianian" />
 
 ## Contribute
 
